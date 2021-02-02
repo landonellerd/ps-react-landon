@@ -16,4 +16,4 @@ HelloWorld.defaultProps = {
     message: 'World'
 };
 
-export default HelloWorld;
+export default HelloWorld; 
